@@ -1,0 +1,85 @@
+
+pre{
+font-size: 16px;
+
+}
+
+
+body{
+font-size: 16px;
+
+}
+
+#footer{
+
+  margin : auto;
+}
+
+p{
+font-size: 16px;
+
+}
+
+b{
+  border: 2px solid white;
+  margin : auto;
+font-size: 16px;
+
+}
+
+
+#a{
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+#b{
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+div {
+  text-align: center;
+font-size: 16px;
+
+}
+
+#info{
+  background-color: white;
+  color: blue;
+font-size: 16px;
+
+}
+
+h1{
+  border: 1px solid black;
+  margin-bottom: 10px;
+color: orange;
+
+}
+
+#copy{
+  background-color: blue;
+  color: white;
+font-size: 16px;
+
+}
+
+#refresh{
+  position: absolute;
+  top: 37px;
+ left: 0px;
+}
+
+#homebtn{
+  position: absolute;
+  top: 37px;
+ right: 0px;
+background-color: black;
+
+}
+
+#dark{
+color:white;
+
+}
